@@ -1,2 +1,15 @@
+node_modules
 .vitepress/cache
 .vitepress/dist
+
+### Sublime Text ###
+*.sublime-workspace
+*.sublime-project
+GitHub.sublime-settings
+
+### Visual Studio Code ###
+.vscode/
+.history/
+
+### JetBrains ###
+.idea/
