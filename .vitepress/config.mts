@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "iDev.pro Wiki",
   description: "A small blog like wiki",
-  base: '/idevpro-wiki'
+  base: '/idevpro-wiki',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
